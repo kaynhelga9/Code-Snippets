@@ -1,5 +1,5 @@
 # Code-Snippets
-My various snippets from different fields in Computer Science using mainly Python. You can get it [here](https://www.python.org/downloads/)
+My various snippets from different fields in Computer Science using mainly Python 3. You can get it [here](https://www.python.org/downloads/)
 
 ## Summary:
 ### Kivy `pip install kivy`
